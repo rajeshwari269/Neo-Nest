@@ -63,9 +63,7 @@
 
 >**NeoNest** bridges this gap with an all-in-one AI-powered babycare assistant. From **feeding logs** to **vaccine reminders**, **milestone tracking**, and an **empathetic chatbot**, it helps parents stay organized, supported, and informed—without feeling overwhelmed.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+
 
 
 
@@ -221,9 +219,6 @@ neonest/
 - **Vercel** (Hosting)
 - **GitHub** (Version Control)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 **🧑‍💻 How to Run NeoNest Locally (Pull Requests)**
 
@@ -287,19 +282,10 @@ cd neonest
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-**🤝👤 Contribution Guidelines**
-
-We love our contributors! If you'd like to help, please check out our [`CONTRIBUTE.md`](https://github.com/AditiGupta-tech/neonest/blob/main/Contributing.md) file for guidelines.
-
->Thank you once again to all our contributors who has contributed to **NeoNest!** Your efforts are truly appreciated. 💖👏
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 **📄 License**
 
-This project is licensed under the MIT License - see the [`License`](https://github.com/AditiGupta-tech/neonest/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [`License`](https://github.com/rajeshwari269/Neo-Nest/blob/main/LICENSE) file for details.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
