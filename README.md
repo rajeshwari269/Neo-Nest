@@ -313,29 +313,6 @@ See the full list of contributors and their contributions on the [`GitHub Contri
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-**⭐ Stargazers**
-
-<div align="center">
-  <a href="https://github.com/AditiGupta-tech/neonest/stargazers">
-    <img src="https://reporoster.com/stars/AditiGupta-tech/neonest?type=svg&limit=100&names=false" alt="Stargazers" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-**🍴 Forkers**
-
-<div align="center">
-  <a href="https://github.com/AditiGupta-tech/neonest/network/members">
-    <img src="https://reporoster.com/forks/AditiGupta-tech/neonest?type=svg&limit=100&names=false" alt="Forkers" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 **💡 Suggestions & Feedback**
 
@@ -356,20 +333,7 @@ Feel free to open issues or discussions if you have any feedback, feature sugges
 
 
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Give us a Star and let's make magic! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /></h1>
-
-<p align="center">
-     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mirror%20Ball.png" alt="Mirror Ball" width="150" height="150" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<h4 align="center">
+  
 
 [open an issue](https://github.com/TheFlashCodes/FKvim/issues) | [Watch Demo](https://neonest-babycare.vercel.app/)
 
