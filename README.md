@@ -67,24 +67,13 @@
 
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 
 
 
-   ]
-      <img src="portfolio.png" width="45" height="45" alt="Portfolio" style="border-radius:50%">
-    </a>
-  </sub>
-</div>
 
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Project GIF">
-</div>
+   
+      
 
 **📁 NeoNest Folder Structure**
 
