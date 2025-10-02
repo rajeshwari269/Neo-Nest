@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-![GSSoC'25](https://img.shields.io/badge/GirlScript%20Summer%20of%20Code-2025-orange?style=for-the-badge&logo=github)
+
 
 > NeoNest is a smart, centralized digital platform that supports new parents—especially first-timers—through their baby’s first year. It combines **predictive care**, **emotional comfort**, and **intelligent tracking** into a single unified experience.
 
@@ -67,44 +67,16 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-**🌟 Exciting News...**
 
-<p align="center">
-  <img src="gssocLogo.png" alt="GSSoC Logo" width="500">
-</p>
-
-🚀 This project is now an official part of GirlScript Summer of Code – GSSoC'25! 🎉 We're thrilled to welcome contributors from all over India and beyond to collaborate, build, and grow NeoNest! Let’s make learning and career development smarter – together! 🌟👨‍💻👩‍💻
-
-👩‍💻 GSSoC is one of India’s **largest 3-month-long open-source programs** that encourages developers of all levels to contribute to real-world projects while learning, collaborating, and growing together. 🌱
-
-With **mentorship, community support**, and **collaborative coding**, it's the perfect platform for developers to:
-
-- ✨ Improve their skills
-- 🤝 Contribute to impactful projects
-- 🏆 Get recognized for their work
-- 📜 Receive certificates and swag!
-
-🎉 **I can’t wait to welcome new contributors** from GSSoC 2025 to this NeoNest project family! Let's build, learn, and grow together — one commit at a time. 🔥👨‍💻👩‍💻
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2 align="center">🧑‍💻 Project Admin</h2>
 
-<div align="center">
-  <a href="https://github.com/AditiGupta-tech">
-    <img src="https://avatars.githubusercontent.com/u/195787501?v=4" width="140" height="140" alt="Aditi Gupta" style="border-radius:50%">
-  </a>
-  <br>
-  <sub>
-    <b>Aditi Gupta</b>
-    <br>
-    <a href="https://www.linkedin.com/in/aditi-gupta-464024324/">
-      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278833250-adb040ea-e3ef-446e-bcd4-3e8d7d4c0176.png" width="45" height="45" alt="LinkedIn">
-    </a>
-    &nbsp;&nbsp; 
-    <a href="https://aditi-gupta-portfolio.vercel.app/">
+
+
+   ]
       <img src="portfolio.png" width="45" height="45" alt="Portfolio" style="border-radius:50%">
     </a>
   </sub>
@@ -395,21 +367,9 @@ Feel free to open issues or discussions if you have any feedback, feature sugges
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-**📜 Code of Conduct**
 
-Please refer to the [`Code of Conduct`](https://github.com/AditiGupta-tech/neonest/blob/main/CODE_OF_CONDUCT.md) for details on contributing guidelines and community standards.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
-**👨‍🏫 Mentors – NeoNest (GSSoC'25)**
-
-| Role          | Name               | GitHub Profile                                      | LinkedIn Profile                                                        |
-| ------------- | ------------------ | --------------------------------------------------- | ----------------------------------------------------------------------- |
-| Mentor 1 | Gopichand Dandimeni |  [Gooichand](https://github.com/Gooichand) | [gopichand-dandimeni](https://www.linkedin.com/in/gopichand-dandimeni-269709287/) |
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
@@ -425,7 +385,6 @@ Please refer to the [`Code of Conduct`](https://github.com/AditiGupta-tech/neone
 
 <h4 align="center">
 
-**👨‍💻 Built with ❤️ by NeoNest Team**
 [open an issue](https://github.com/TheFlashCodes/FKvim/issues) | [Watch Demo](https://neonest-babycare.vercel.app/)
 
 </h4>
