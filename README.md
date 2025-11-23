@@ -221,7 +221,7 @@ Here’s a quick overview of the contribution flow:
 2. **📦 Clone your fork**:
 
  ```bash
-git clone https://github.com/AditiGupta-tech/neonest.git
+git clone https://github.com/rajeshwari269/neonest.git
 cd neonest
 ```
 
